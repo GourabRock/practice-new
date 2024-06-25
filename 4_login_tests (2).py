@@ -1,3 +1,4 @@
+Example of git
 from selenium import webdriver
 from pages.home.login_page import LoginPage
 import unittest
